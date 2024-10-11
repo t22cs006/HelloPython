@@ -20,4 +20,5 @@ num1 = int(num_str)
 num_str = input("正の整数を入力してください：")
 num2 = int(num_str)
 gcd = get_gcd(num1, num2)
+
 print(gcd)
