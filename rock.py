@@ -23,7 +23,6 @@ def janken():
 
 
 
-
 for i in range(3):
     data = [rand() for i in range(2)]
     print(data)    
